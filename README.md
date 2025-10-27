@@ -17,7 +17,7 @@ Read all relavent sections before contributing. Create issues for any errors or 
 2. Create a fork of this repository. Do not commit changes directly to this repository unless they are vital security updates discussed and approved in an issue.
 3. Create a script with a descriptive name for its intended usage, for example "windows11.ps1".
 4. Add changes within your fork
-5. Create a documentation in a file located in documentation/[scriptname].md (e.g. "documentation/windows11.md"). Document **all changes** your script makes to the system.
+5. Create a documentation in a file located in documentation/[scriptname].md (e.g. "documentation/windows11.md"). Document **all changes** your script makes to the system, as well as how to invoke the script.
 6. Create a pull request on this repository.
 7. Wait for review and answer questions/address concerns of other contributors.
 8. A maintainer may approve or request changes. Please remain curtious and patient during the review process, as it may take a while to confirm your script works as intended.
