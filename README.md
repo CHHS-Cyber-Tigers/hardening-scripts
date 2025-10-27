@@ -2,7 +2,8 @@
 Automated OS hardening scripts
 
 # For Contributors
-Read all relavent sections before contributing. Create issues for any errors or feature suggestions.
+Read all relavent sections before contributing. Create issues for any errors or feature suggestions. Please follow all applicable rules and act respectfully. 
+
 **Notice:** Any AI generated or AI assisted code must be disclosed in inline comments and your pull request. By including AI assisted content you certify that you have (i) manually reviewed all generated code, (ii) independently certified all code to work as documented, and (iii) fully understand and documented all generated code. Undiclosed AI generated code may be removed without prior notice.
 ## Modifying a script
 1. Create a fork of this repository. Do not commit changes directly to this repository unless they are vital security updates discussed and approved in an issue.
